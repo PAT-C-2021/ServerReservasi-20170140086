@@ -1,0 +1,2 @@
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 11\ServerReservasi\ServerReservasi\obj\Debug\ServerReservasi.csprojAssemblyReference.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 11\ServerReservasi\ServerReservasi\obj\Debug\ServerReservasi.csproj.CoreCompileInputs.cache
